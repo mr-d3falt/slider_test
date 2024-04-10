@@ -8,9 +8,9 @@
 
 .vert
 {
-    /* transform: rotate(90deg);
-    margin-top: -10%; */
-    transform: translateY(40vh);
+   transform: rotate(90deg);
+    /*margin-top: -10%;
+    transform: translateY(40vh);*/
 
 }
 
